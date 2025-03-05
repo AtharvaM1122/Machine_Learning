@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+mediapipe
+streamlit
+streamlit_webrtc
+sounddevice  # ✅ Added for audio feedback (optional, if needed for play_sound)
+matplotlib   # ✅ Added for debugging visualizations (optional)
+pandas  # ✅ Required for tracking exercise stats
+scipy   # ✅ Required for advanced math operations
